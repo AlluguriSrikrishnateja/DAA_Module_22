@@ -18,8 +18,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 Program to implement the longest common substring problem
 
 .
-Developed by: Koti Sai Sankar
-Register Number: 212222240111
+Developed by: Alluguri Srikrishna Teja
+Register Number: 212222040006
 */
 ```
 ```
