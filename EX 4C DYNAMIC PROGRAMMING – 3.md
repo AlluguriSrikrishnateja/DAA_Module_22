@@ -16,8 +16,8 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 ```
 /*
 Program to implement to find the length of the longest palindromic subsequence in it
-Developed by: Koti Sai Sankar
-Register Number: 212222240111
+Developed by: Alluguri Srikrishna Teja 
+Register Number: 212222040006
 */
 ```
 ```
